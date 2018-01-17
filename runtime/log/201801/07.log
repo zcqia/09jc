@@ -1,0 +1,278 @@
+---------------------------------------------------------------
+[ 2018-01-07T17:45:36+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.588936s][吞吐率：1.70req/s] [内存消耗：1,378.22kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-07T18:09:38+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.138124s][吞吐率：7.24req/s] [内存消耗：1,417.30kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\weichat\controller\M()[C:\wamp64\www\09juchang\application\weichat\controller\Buy.php:7]
+---------------------------------------------------------------
+[ 2018-01-07T18:10:07+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.025250s][吞吐率：39.60req/s] [内存消耗：1,417.21kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function select() on null[C:\wamp64\www\09juchang\application\weichat\controller\Buy.php:8]
+---------------------------------------------------------------
+[ 2018-01-07T18:10:28+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.025295s][吞吐率：39.53req/s] [内存消耗：1,417.17kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function select() on null[C:\wamp64\www\09juchang\application\weichat\controller\Buy.php:8]
+---------------------------------------------------------------
+[ 2018-01-07T18:10:29+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.022274s][吞吐率：44.90req/s] [内存消耗：1,417.17kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function select() on null[C:\wamp64\www\09juchang\application\weichat\controller\Buy.php:8]
+---------------------------------------------------------------
+[ 2018-01-07T18:10:29+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.032020s][吞吐率：31.23req/s] [内存消耗：1,417.17kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function select() on null[C:\wamp64\www\09juchang\application\weichat\controller\Buy.php:8]
+---------------------------------------------------------------
+[ 2018-01-07T18:12:49+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.157517s][吞吐率：6.35req/s] [内存消耗：2,249.08kb] [文件加载：42]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012055s ] mysql:host=127.0.0.1;port=3306;dbname=jungejushuo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform` [ RunTime:0.012460s ]
+[ sql ] [ SQL ] SELECT * FROM `perform` [ RunTime:0.001325s ]
+---------------------------------------------------------------
+[ 2018-01-07T18:14:52+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.122493s][吞吐率：8.16req/s] [内存消耗：2,408.95kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001087s ] mysql:host=127.0.0.1;port=3306;dbname=jungejushuo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform` [ RunTime:0.003682s ]
+[ sql ] [ SQL ] SELECT * FROM `perform` [ RunTime:0.001211s ]
+---------------------------------------------------------------
+[ 2018-01-07T18:15:36+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.043696s][吞吐率：22.89req/s] [内存消耗：2,408.95kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000943s ] mysql:host=127.0.0.1;port=3306;dbname=jungejushuo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform` [ RunTime:0.001207s ]
+[ sql ] [ SQL ] SELECT * FROM `perform` [ RunTime:0.000420s ]

@@ -1,0 +1,4661 @@
+---------------------------------------------------------------
+[ 2018-01-05T10:03:04+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.018754s][吞吐率：53.32req/s] [内存消耗：1,323.73kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\project\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:03:05+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.016487s][吞吐率：60.65req/s] [内存消耗：1,323.71kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\project\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:03:05+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.018244s][吞吐率：54.81req/s] [内存消耗：1,323.71kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\project\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:28+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.028308s][吞吐率：35.33req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:28+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.028452s][吞吐率：35.15req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:29+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.016207s][吞吐率：61.70req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:29+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.018500s][吞吐率：54.05req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:49+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.019337s][吞吐率：51.71req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:49+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.019890s][吞吐率：50.28req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:05:49+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.015568s][吞吐率：64.23req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:06:19+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.018216s][吞吐率：54.90req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T10:06:19+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.018119s][吞吐率：55.19req/s] [内存消耗：1,369.33kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\project\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:08+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.024179s][吞吐率：41.36req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:11+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013143s][吞吐率：76.09req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:11+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016434s][吞吐率：60.85req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:12+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015458s][吞吐率：64.69req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:12+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016295s][吞吐率：61.37req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:12+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016413s][吞吐率：60.93req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:12+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.018213s][吞吐率：54.91req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:12+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.017174s][吞吐率：58.23req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:15+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012938s][吞吐率：77.29req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:15+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015160s][吞吐率：65.96req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:15+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016294s][吞吐率：61.37req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:15+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016090s][吞吐率：62.15req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:15+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013183s][吞吐率：75.85req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.014227s][吞吐率：70.29req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013408s][吞吐率：74.58req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.019055s][吞吐率：52.48req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.014330s][吞吐率：69.78req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016479s][吞吐率：60.68req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013406s][吞吐率：74.59req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:16+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.014706s][吞吐率：68.00req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:17+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016680s][吞吐率：59.95req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:17+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013047s][吞吐率：76.65req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:17+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012722s][吞吐率：78.60req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:18+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012483s][吞吐率：80.11req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:18+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013624s][吞吐率：73.40req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:18+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012949s][吞吐率：77.23req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015354s][吞吐率：65.13req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015580s][吞吐率：64.19req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:44:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.014135s][吞吐率：70.75req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:18+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015119s][吞吐率：66.14req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:18+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015175s][吞吐率：65.90req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:18+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.014758s][吞吐率：67.76req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015013s][吞吐率：66.61req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012588s][吞吐率：79.44req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016233s][吞吐率：61.60req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.018045s][吞吐率：55.42req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:19+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015661s][吞吐率：63.85req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:20+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015311s][吞吐率：65.31req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:20+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.015777s][吞吐率：63.38req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:20+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.017145s][吞吐率：58.33req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:20+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.017762s][吞吐率：56.30req/s] [内存消耗：1,090.31kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/09juchang/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:26+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.018643s][吞吐率：53.64req/s] [内存消耗：1,089.59kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:27+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.013010s][吞吐率：76.86req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:27+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.013197s][吞吐率：75.78req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:28+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.016350s][吞吐率：61.16req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:28+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.013471s][吞吐率：74.23req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:28+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.014344s][吞吐率：69.72req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:29+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.018801s][吞吐率：53.19req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:29+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.014217s][吞吐率：70.34req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:29+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.017964s][吞吐率：55.67req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:46:29+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.013534s][吞吐率：73.89req/s] [内存消耗：1,090.23kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:48:55+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.016580s][吞吐率：60.31req/s] [内存消耗：1,089.57kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'index'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:48:57+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012502s][吞吐率：79.99req/s] [内存消耗：1,089.96kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'index'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:48:58+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.013065s][吞吐率：76.54req/s] [内存消耗：1,089.96kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'index'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:48:58+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.012155s][吞吐率：82.27req/s] [内存消耗：1,089.96kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'index'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:49:09+08:00 ] 0.0.0.0 GET /09juchang/public/index.php
+[ info ] localhost/09juchang/public/index.php [运行时间：0.018524s][吞吐率：53.98req/s] [内存消耗：1,089.58kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'index'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:49:15+08:00 ] 0.0.0.0 GET /09juchang/public/index.php
+[ info ] localhost/09juchang/public/index.php [运行时间：0.019928s][吞吐率：50.18req/s] [内存消耗：1,127.21kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'inde'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'inde',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:49:16+08:00 ] 0.0.0.0 GET /09juchang/public/index.php
+[ info ] localhost/09juchang/public/index.php [运行时间：0.018655s][吞吐率：53.60req/s] [内存消耗：1,127.21kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'inde'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'inde',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:49:19+08:00 ] 0.0.0.0 GET /09juchang/public/inde.php
+[ info ] localhost/09juchang/public/inde.php [运行时间：0.016145s][吞吐率：61.94req/s] [内存消耗：1,126.91kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'inde'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'inde',
+    1 => 'inde.php',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:49:28+08:00 ] 0.0.0.0 GET /09juchang/public/inde.php
+[ info ] localhost/09juchang/public/inde.php [运行时间：0.015381s][吞吐率：65.01req/s] [内存消耗：1,127.30kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'inde'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'inde',
+    1 => 'inde.php',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:18+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.017201s][吞吐率：58.14req/s] [内存消耗：1,128.42kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:28+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.019428s][吞吐率：51.47req/s] [内存消耗：1,128.81kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:46+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.016719s][吞吐率：59.81req/s] [内存消耗：1,128.83kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:47+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.019754s][吞吐率：50.62req/s] [内存消耗：1,128.83kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:48+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.018087s][吞吐率：55.29req/s] [内存消耗：1,128.83kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:48+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.017541s][吞吐率：57.01req/s] [内存消耗：1,128.83kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:48+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.017603s][吞吐率：56.81req/s] [内存消耗：1,128.83kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:50:48+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.019419s][吞吐率：51.50req/s] [内存消耗：1,128.83kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:51:23+08:00 ] 0.0.0.0 GET /09juchang/public/admi.php
+[ info ] localhost/09juchang/public/admi.php [运行时间：0.022866s][吞吐率：43.73req/s] [内存消耗：1,123.80kb] [文件加载：30]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admi.php',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:51:30+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.016420s][吞吐率：60.90req/s] [内存消耗：1,128.42kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:52:46+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php/index/index
+[ info ] localhost/09juchang/public/admin.php/index/index [运行时间：0.020247s][吞吐率：49.39req/s] [内存消耗：1,128.54kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:52:53+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php/index
+[ info ] localhost/09juchang/public/admin.php/index [运行时间：0.016885s][吞吐率：59.22req/s] [内存消耗：1,128.50kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:53:15+08:00 ] 0.0.0.0 GET /09juchang/public/
+[ info ] localhost/09juchang/public/ [运行时间：0.017329s][吞吐率：57.71req/s] [内存消耗：1,089.59kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T17:55:32+08:00 ] 0.0.0.0 GET /09juchang/public/admin.php
+[ info ] localhost/09juchang/public/admin.php [运行时间：0.015164s][吞吐率：65.95req/s] [内存消耗：1,089.58kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=fmac0c5639s88qvot3cre0nfb5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\09juchang\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T19:53:29+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.036298s][吞吐率：27.55req/s] [内存消耗：1,089.36kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:32:18+08:00 ] 127.0.0.1 GET /
+[ info ] www.09juchang.com/ [运行时间：0.018578s][吞吐率：53.83req/s] [内存消耗：1,089.08kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\wamp64\www\09juchang\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:32:31+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.014978s][吞吐率：66.76req/s] [内存消耗：1,089.10kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:42:41+08:00 ] 127.0.0.1 GET /weichat.php/weichat/buy
+[ info ] www.09juchang.com/weichat.php/weichat/buy [运行时间：0.023505s][吞吐率：42.54req/s] [内存消耗：1,126.48kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'weichat',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:42:57+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.024922s][吞吐率：40.13req/s] [内存消耗：1,126.40kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:43:19+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.020681s][吞吐率：48.35req/s] [内存消耗：1,126.73kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:44:23+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.019037s][吞吐率：52.53req/s] [内存消耗：1,126.73kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:46:16+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.023734s][吞吐率：42.13req/s] [内存消耗：1,126.35kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:46:20+08:00 ] 127.0.0.1 GET /admin.php
+[ info ] www.09juchang.com/admin.php [运行时间：0.015162s][吞吐率：65.95req/s] [内存消耗：1,089.10kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\09juchang\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:46:55+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.021991s][吞吐率：45.47req/s] [内存消耗：1,126.35kb] [文件加载：31]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:47:28+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.019538s][吞吐率：51.18req/s] [内存消耗：1,128.27kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:47:29+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.017821s][吞吐率：56.11req/s] [内存消耗：1,128.27kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:47:30+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.018210s][吞吐率：54.91req/s] [内存消耗：1,128.27kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:47:30+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.038638s][吞吐率：25.88req/s] [内存消耗：1,128.27kb] [文件加载：32]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:48:32+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.015420s][吞吐率：64.85req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\09juchang\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:23+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.015051s][吞吐率：66.44req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:24+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.025580s][吞吐率：39.09req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:24+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.012769s][吞吐率：78.31req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:24+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.021947s][吞吐率：45.56req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:29+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.023470s][吞吐率：42.61req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:29+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.020957s][吞吐率：47.72req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:29+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.032700s][吞吐率：30.58req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:29+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.026341s][吞吐率：37.96req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:30+08:00 ] 127.0.0.1 GET /weichat.php
+[ info ] www.09juchang.com/weichat.php [运行时间：0.014799s][吞吐率：67.57req/s] [内存消耗：1,089.43kb] [文件加载：28]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\09juchang\application\weichat\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:50:51+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.153071s][吞吐率：6.53req/s] [内存消耗：1,411.52kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html[C:\wamp64\www\09juchang\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-01-05T20:51:32+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.107079s][吞吐率：9.34req/s] [内存消耗：1,536.09kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:51:32+08:00 ] 127.0.0.1 GET /weichat.php/buy/css/master.css
+[ info ] www.09juchang.com/weichat.php/buy/css/master.css [运行时间：0.030948s][吞吐率：32.31req/s] [内存消耗：1,411.53kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:51:32+08:00 ] 127.0.0.1 GET /weichat.php/buy/bootstrap/css/bootstrap.css
+[ info ] www.09juchang.com/weichat.php/buy/bootstrap/css/bootstrap.css [运行时间：0.046804s][吞吐率：21.37req/s] [内存消耗：1,412.30kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:51:32+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.061637s][吞吐率：16.22req/s] [内存消耗：1,411.55kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:51:32+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.039972s][吞吐率：25.02req/s] [内存消耗：1,411.55kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:51:37+08:00 ] 127.0.0.1 GET /weichat.php/buy/css/master.css
+[ info ] www.09juchang.com/weichat.php/buy/css/master.css [运行时间：0.029280s][吞吐率：34.15req/s] [内存消耗：1,411.53kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:51:37+08:00 ] 127.0.0.1 GET /weichat.php/buy/bootstrap/css/bootstrap.css
+[ info ] www.09juchang.com/weichat.php/buy/bootstrap/css/bootstrap.css [运行时间：0.066078s][吞吐率：15.13req/s] [内存消耗：1,412.30kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.033296s][吞吐率：30.03req/s] [内存消耗：1,536.75kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.028743s][吞吐率：34.79req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/bootstrap/css/bootstrap.css
+[ info ] www.09juchang.com/weichat.php/buy/bootstrap/css/bootstrap.css [运行时间：0.070181s][吞吐率：14.25req/s] [内存消耗：1,412.64kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.073396s][吞吐率：13.62req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.025378s][吞吐率：39.40req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/bootstrap/css/bootstrap.css
+[ info ] www.09juchang.com/weichat.php/buy/bootstrap/css/bootstrap.css [运行时间：0.034273s][吞吐率：29.18req/s] [内存消耗：1,412.64kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.044472s][吞吐率：22.49req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.045326s][吞吐率：22.06req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.054524s][吞吐率：18.34req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:14+08:00 ] 127.0.0.1 GET /weichat.php/buy/bootstrap/css/bootstrap.css
+[ info ] www.09juchang.com/weichat.php/buy/bootstrap/css/bootstrap.css [运行时间：0.034495s][吞吐率：28.99req/s] [内存消耗：1,412.64kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:14+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.042769s][吞吐率：23.38req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:14+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.032076s][吞吐率：31.18req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:14+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.051514s][吞吐率：19.41req/s] [内存消耗：1,411.38kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:14+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.074225s][吞吐率：13.47req/s] [内存消耗：1,411.38kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.033079s][吞吐率：30.23req/s] [内存消耗：1,536.75kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.043522s][吞吐率：22.98req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.030277s][吞吐率：33.03req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.022167s][吞吐率：45.11req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.027986s][吞吐率：35.73req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.042242s][吞吐率：23.67req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.043154s][吞吐率：23.17req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.033046s][吞吐率：30.26req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.020832s][吞吐率：48.00req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.042848s][吞吐率：23.34req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:24+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.069065s][吞吐率：14.48req/s] [内存消耗：1,411.38kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:25+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/big_img_mob.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/big_img_mob.jpg [运行时间：0.029212s][吞吐率：34.23req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:25+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.075868s][吞吐率：13.18req/s] [内存消耗：1,411.38kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:56:25+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/show_img.png
+[ info ] www.09juchang.com/weichat.php/buy/img/show_img.png [运行时间：0.059024s][吞吐率：16.94req/s] [内存消耗：1,411.89kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buy',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:57:02+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.040179s][吞吐率：24.89req/s] [内存消耗：1,536.75kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T20:57:02+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.032861s][吞吐率：30.43req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:47+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.026155s][吞吐率：38.23req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:47+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.027168s][吞吐率：36.81req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:47+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.023734s][吞吐率：42.13req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:47+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.026443s][吞吐率：37.82req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:48+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.028086s][吞吐率：35.60req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:48+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.025298s][吞吐率：39.53req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:49+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.029300s][吞吐率：34.13req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:03:50+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.020722s][吞吐率：48.26req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:04:16+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.023076s][吞吐率：43.33req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:04:30+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.024329s][吞吐率：41.10req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:04:31+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.020058s][吞吐率：49.86req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:04:32+08:00 ] 127.0.0.1 GET /weichat.php/buy/buy
+[ info ] www.09juchang.com/weichat.php/buy/buy [运行时间：0.020609s][吞吐率：48.52req/s] [内存消耗：1,377.82kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buy[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buy.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:13+08:00 ] 127.0.0.1 GET /weichat.php/buy/buylist
+[ info ] www.09juchang.com/weichat.php/buy/buylist [运行时间：0.035450s][吞吐率：28.21req/s] [内存消耗：1,535.18kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buylist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buylist[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buylist.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:48+08:00 ] 127.0.0.1 GET /weichat.php/buy/buytail
+[ info ] www.09juchang.com/weichat.php/buy/buytail [运行时间：0.037957s][吞吐率：26.35req/s] [内存消耗：1,538.68kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buytail[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buytail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:48+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/shower_pic1.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/shower_pic1.jpg [运行时间：0.025685s][吞吐率：38.93req/s] [内存消耗：1,413.00kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buytail',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:48+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/shower_pic4.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/shower_pic4.jpg [运行时间：0.070366s][吞吐率：14.21req/s] [内存消耗：1,413.00kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buytail',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:48+08:00 ] 127.0.0.1 GET /weichat.php/buy/img/shower_pic2.jpg
+[ info ] www.09juchang.com/weichat.php/buy/img/shower_pic2.jpg [运行时间：0.109828s][吞吐率：9.11req/s] [内存消耗：1,413.00kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'img',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.09juchang.com/weichat.php/buy/buytail',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:56+08:00 ] 127.0.0.1 GET /weichat.php/buy/buytail
+[ info ] www.09juchang.com/weichat.php/buy/buytail [运行时间：0.036868s][吞吐率：27.12req/s] [内存消耗：1,538.88kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buytail[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buytail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-05T21:07:56+08:00 ] 127.0.0.1 GET /weichat.php/buy/buytail
+[ info ] www.09juchang.com/weichat.php/buy/buytail [运行时间：0.031824s][吞吐率：31.42req/s] [内存消耗：1,378.97kb] [文件加载：35]
+[ info ] [ LANG ] C:\wamp64\www\09juchang\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'buy',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.09juchang.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Buy->buytail[ C:\wamp64\www\09juchang\application\weichat\controller\Buy.php ]
+[ info ] [ VIEW ] C:\wamp64\www\09juchang\public/../application/weichat\view\buy\buytail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
