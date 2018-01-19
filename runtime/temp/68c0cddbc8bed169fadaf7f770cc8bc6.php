@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:57:"C:\wamp64\www/./application/weichat\view\index\index.html";i:1516164860;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:57:"C:\wamp64\www/./application/weichat\view\index\index.html";i:1516368465;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,10 +9,10 @@
 	<link href="/public/static/weichat/css/master.css" rel="stylesheet" type="text/css">
 	<link href="/public/static/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
 </head>
-<body>
+<body style="background: rgb(243, 243, 244)">
 	<!-- <div class="nav_mob"><span>09剧场</span></div> -->
 	<div class="main_mob">
-		<!-- <div id="focus" class="pic_mob"><img src="/static/weichat/img/big_img_mob.jpg"><img src="/static/weichat/img/big_img_mob2.jpg"></div>
+		<!-- <div id="focus" class="pic_mob"><img src="http://120.79.174.167/public/static/weichat/img/big_img_mob.jpg"><img src="/public/static/weichat/img/big_img_mob2.jpg"></div>
 		<div class="change_pic"><div></div><div></div><div></div></div> -->
 		<?php foreach($data as $v): ?>
 		<div class="show_mob">

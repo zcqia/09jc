@@ -35100,3 +35100,1347 @@
 [ sql ] [ DB ] CONNECT:[ UseTime:0.001363s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
 [ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001539s ]
 [ sql ] [ SQL ] SELECT `a`.`id`,`b`.`show_id`,`c`.`shower_id`,`b`.`show_describe`,`a`.`show_id`,`b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,group_concat(c.shower_name) as shower_name FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` INNER JOIN `shower` `c` ON `a`.`shower_id`=`c`.`shower_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path [ RunTime:0.001468s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:18:37+08:00 ] 0.0.0.0 GET /admin.php
+[ info ] localhost/admin.php [运行时间：0.598485s][吞吐率：1.67req/s] [内存消耗：1,447.14kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.71 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1516343475,1516345272,1516345443; pgv_pvi=6180209664; PHPSESSID=2odo84jaknq7rqqhh2u4rm48s8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\wamp64\www\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] C:\wamp64\www/./application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T21:18:50+08:00 ] 0.0.0.0 GET /weichat.php
+[ info ] localhost/weichat.php [运行时间：0.201322s][吞吐率：4.97req/s] [内存消耗：2,348.50kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.71 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1516343475,1516345272,1516345443; pgv_pvi=6180209664; PHPSESSID=2odo84jaknq7rqqhh2u4rm48s8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012075s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.003594s ]
+[ sql ] [ SQL ] SELECT `a`.`show_id`,`b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,group_concat(c.shower_name) as shower_name FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` INNER JOIN `shower` `c` ON `a`.`shower_id`=`c`.`shower_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path [ RunTime:0.002302s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:18:53+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.077789s][吞吐率：12.86req/s] [内存消耗：2,364.13kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1516343475,1516345272,1516345443; pgv_pvi=6180209664; PHPSESSID=2odo84jaknq7rqqhh2u4rm48s8',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001542s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001043s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000558s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000946s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001156s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001714s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000667s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:19:37+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.046520s][吞吐率：21.50req/s] [内存消耗：2,364.20kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1516343475,1516345272,1516345443; pgv_pvi=6180209664; PHPSESSID=2odo84jaknq7rqqhh2u4rm48s8',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001487s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001159s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000813s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000980s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000702s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002356s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000721s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:19:40+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.047263s][吞吐率：21.16req/s] [内存消耗：2,364.20kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'Hm_lvt_080836300300be57b7f34f4b3e97d911=1516343475,1516345272,1516345443; pgv_pvi=6180209664; PHPSESSID=2odo84jaknq7rqqhh2u4rm48s8',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001311s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001202s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000710s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000910s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000808s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000918s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000659s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:20:03+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.042838s][吞吐率：23.34req/s] [内存消耗：2,363.89kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001563s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.002026s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.001509s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000954s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000664s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000870s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000565s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:21:03+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.152417s][吞吐率：6.56req/s] [内存消耗：2,534.88kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001268s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001135s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000812s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001016s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000777s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000750s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:21:22+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.069185s][吞吐率：14.45req/s] [内存消耗：2,534.88kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001308s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001448s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.002088s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001316s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.002182s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001026s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000683s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:21:32+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.065094s][吞吐率：15.36req/s] [内存消耗：2,534.88kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001265s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001117s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000686s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.002701s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000904s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001867s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001476s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:21:39+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.069440s][吞吐率：14.40req/s] [内存消耗：2,534.88kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001584s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001840s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.001513s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001122s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000628s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000985s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000714s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:21:43+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.065080s][吞吐率：15.37req/s] [内存消耗：2,534.88kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001215s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001142s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000645s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001061s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001443s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001674s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000704s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:21:52+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.049693s][吞吐率：20.12req/s] [内存消耗：2,363.89kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002908s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001260s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000822s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001196s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000819s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001339s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.002264s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:22:56+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.041472s][吞吐率：24.11req/s] [内存消耗：2,363.89kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001089s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001469s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000998s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001291s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000812s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002170s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001488s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:23:00+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.037848s][吞吐率：26.42req/s] [内存消耗：2,363.89kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001381s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.002235s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000994s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000774s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000599s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000888s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000768s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:23:07+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.044658s][吞吐率：22.39req/s] [内存消耗：2,363.89kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001342s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001269s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000840s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.002428s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002242s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001226s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:24:33+08:00 ] 0.0.0.0 GET /admin.php
+[ info ] localhost/admin.php [运行时间：0.065766s][吞吐率：15.21req/s] [内存消耗：1,410.70kb] [文件加载：37]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.71 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T21:24:33+08:00 ] 0.0.0.0 GET /admin.php/login/login
+[ info ] localhost/admin.php/login/login [运行时间：0.068150s][吞吐率：14.67req/s] [内存消耗：1,447.09kb] [文件加载：36]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.71 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=r3rb2pkk4prs52jcd8phenq21e',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->login[ C:\wamp64\www\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] C:\wamp64\www/./application/admin\view\login\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T21:25:22+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.073779s][吞吐率：13.55req/s] [内存消耗：2,534.98kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=r3rb2pkk4prs52jcd8phenq21e',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001392s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001224s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000885s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000613s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:26:22+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.067630s][吞吐率：14.79req/s] [内存消耗：2,534.98kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=r3rb2pkk4prs52jcd8phenq21e',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001258s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001169s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000708s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001554s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.001592s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000990s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000574s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:26:23+08:00 ] 0.0.0.0 GET /weichat.php/index/shop_cart/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/shop_cart/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.043641s][吞吐率：22.91req/s] [内存消耗：2,277.43kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'shop_cart',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=r3rb2pkk4prs52jcd8phenq21e',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->shop_cart[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001064s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shop_cart` [ RunTime:0.001134s ]
+[ sql ] [ SQL ] INSERT INTO `shop_cart` (`show_id` , `shower_name` , `add_time`) VALUES (1 , '李明子,杨乐,陈菲菲,马天伟' , '2018-01-19 21:26:23') [ RunTime:0.001120s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:26:23+08:00 ] 0.0.0.0 GET /weichat.php/index/shop_cart_my
+[ info ] localhost/weichat.php/index/shop_cart_my [运行时间：0.053297s][吞吐率：18.76req/s] [内存消耗：2,347.77kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'shop_cart_my',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=r3rb2pkk4prs52jcd8phenq21e',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->shop_cart_my[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\shop_cart.html [ array (
+  0 => 'data',
+  1 => 'count',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001259s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shop_cart` [ RunTime:0.001196s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`a`.`shower_name`,`a`.`show_id` FROM `shop_cart` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path ORDER BY a.add_time desc [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT count(*) as num FROM `shop_cart` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` GROUP BY b.show_title,b.show_time ORDER BY a.add_time desc [ RunTime:0.000438s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:26:27+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.045401s][吞吐率：22.03req/s] [内存消耗：2,363.93kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/shop_cart_my',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=r3rb2pkk4prs52jcd8phenq21e',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001199s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.002208s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000894s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000786s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000484s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000401s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:21+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.040622s][吞吐率：24.62req/s] [内存消耗：2,363.91kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/shop_cart_my',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001147s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.000992s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000820s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000585s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000898s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000543s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:25+08:00 ] 0.0.0.0 GET /weichat.php/index/shop_cart/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/shop_cart/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.051082s][吞吐率：19.58req/s] [内存消耗：2,277.02kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'shop_cart',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->shop_cart[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001023s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shop_cart` [ RunTime:0.010955s ]
+[ sql ] [ SQL ] INSERT INTO `shop_cart` (`show_id` , `shower_name` , `add_time`) VALUES (1 , '李明子,杨乐,陈菲菲,马天伟' , '2018-01-19 21:27:25') [ RunTime:0.001254s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:25+08:00 ] 0.0.0.0 GET /weichat.php/index/shop_cart_my
+[ info ] localhost/weichat.php/index/shop_cart_my [运行时间：0.049747s][吞吐率：20.10req/s] [内存消耗：2,347.36kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'shop_cart_my',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->shop_cart_my[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\shop_cart.html [ array (
+  0 => 'data',
+  1 => 'count',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011679s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shop_cart` [ RunTime:0.008795s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`a`.`shower_name`,`a`.`show_id` FROM `shop_cart` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path ORDER BY a.add_time desc [ RunTime:0.000882s ]
+[ sql ] [ SQL ] SELECT count(*) as num FROM `shop_cart` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` GROUP BY b.show_title,b.show_time ORDER BY a.add_time desc [ RunTime:0.000647s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:28+08:00 ] 0.0.0.0 GET /weichat.php/index/index
+[ info ] localhost/weichat.php/index/index [运行时间：0.039884s][吞吐率：25.07req/s] [内存消耗：2,348.57kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/shop_cart_my',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001177s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.000915s ]
+[ sql ] [ SQL ] SELECT `a`.`show_id`,`b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,group_concat(c.shower_name) as shower_name FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` INNER JOIN `shower` `c` ON `a`.`shower_id`=`c`.`shower_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path [ RunTime:0.000974s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:30+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.050155s][吞吐率：19.94req/s] [内存消耗：2,363.52kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001187s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.000954s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001357s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000511s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:36+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.071180s][吞吐率：14.05req/s] [内存消耗：2,534.91kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001092s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.002336s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000921s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000629s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:48+08:00 ] 0.0.0.0 GET /weichat.php/index/shop_cart/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/shop_cart/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.035587s][吞吐率：28.10req/s] [内存消耗：2,277.02kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'shop_cart',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->shop_cart[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002060s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shop_cart` [ RunTime:0.001025s ]
+[ sql ] [ SQL ] INSERT INTO `shop_cart` (`show_id` , `shower_name` , `add_time`) VALUES (1 , '李明子,杨乐,陈菲菲,马天伟' , '2018-01-19 21:27:48') [ RunTime:0.000527s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:49+08:00 ] 0.0.0.0 GET /weichat.php/index/shop_cart_my
+[ info ] localhost/weichat.php/index/shop_cart_my [运行时间：0.029338s][吞吐率：34.09req/s] [内存消耗：2,347.36kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'shop_cart_my',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->shop_cart_my[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\shop_cart.html [ array (
+  0 => 'data',
+  1 => 'count',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001301s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shop_cart` [ RunTime:0.001229s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`a`.`shower_name`,`a`.`show_id` FROM `shop_cart` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path ORDER BY a.add_time desc [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT count(*) as num FROM `shop_cart` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` GROUP BY b.show_title,b.show_time ORDER BY a.add_time desc [ RunTime:0.000594s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:27:50+08:00 ] 0.0.0.0 GET /weichat.php/index/index
+[ info ] localhost/weichat.php/index/index [运行时间：0.066032s][吞吐率：15.14req/s] [内存消耗：2,515.56kb] [文件加载：46]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/shop_cart_my',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001099s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001031s ]
+[ sql ] [ SQL ] SELECT `a`.`show_id`,`b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,group_concat(c.shower_name) as shower_name FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` INNER JOIN `shower` `c` ON `a`.`shower_id`=`c`.`shower_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path [ RunTime:0.000948s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:28:15+08:00 ] 0.0.0.0 GET /weichat.php/index/index
+[ info ] localhost/weichat.php/index/index [运行时间：0.041228s][吞吐率：24.26req/s] [内存消耗：2,348.96kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/shop_cart_my',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\weichat\controller\Index->index[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003138s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001190s ]
+[ sql ] [ SQL ] SELECT `a`.`show_id`,`b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,group_concat(c.shower_name) as shower_name FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` INNER JOIN `shower` `c` ON `a`.`shower_id`=`c`.`shower_id` GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path [ RunTime:0.000932s ]
+---------------------------------------------------------------
+[ 2018-01-19T21:28:17+08:00 ] 0.0.0.0 GET /weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F
+[ info ] localhost/weichat.php/index/buytail/show_id/1/shower_name/%E6%9D%8E%E6%98%8E%E5%AD%90,%E6%9D%A8%E4%B9%90,%E9%99%88%E8%8F%B2%E8%8F%B2,%E9%A9%AC%E5%A4%A9%E4%BC%9F [运行时间：0.044599s][吞吐率：22.42req/s] [内存消耗：2,363.52kb] [文件加载：44]
+[ info ] [ LANG ] C:\wamp64\www\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'weichat'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'weichat',
+    1 => 'index',
+    2 => 'buytail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/weichat.php/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'show_id' => '1',
+  'shower_name' => '李明子,杨乐,陈菲菲,马天伟',
+)
+[ info ] [ RUN ] app\weichat\controller\Index->buytail[ C:\wamp64\www\application\weichat\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] C:\wamp64\www/./application/weichat\view\index\buytail.html [ array (
+  0 => 'data',
+  1 => 'shower_name',
+  2 => 'shower',
+  3 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001159s ] mysql:host=127.0.0.1;port=3306;dbname=09jc;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `perform_shower` [ RunTime:0.001012s ]
+[ sql ] [ SQL ] SELECT `b`.`show_title`,`b`.`show_time`,`b`.`show_img_path`,`b`.`show_describe`,`a`.`show_id` FROM `perform_shower` `a` INNER JOIN `perform` `b` ON `a`.`show_id`=`b`.`show_id` WHERE  `a`.`show_id` = 1 GROUP BY a.show_id,b.show_title,b.show_time,b.show_img_path,b.show_describe [ RunTime:0.000545s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `shower` [ RunTime:0.001963s ]
+[ sql ] [ SQL ] SELECT `a`.`shower_name`,`c`.`img_path` FROM `shower` `a` INNER JOIN `perform_shower` `b` ON `a`.`shower_id`=`b`.`shower_id` INNER JOIN `img` `c` ON `a`.`shower_id`=`c`.`shower_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT `a`.`user_name`,`a`.`user_img_path`,`b`.`say_content`,`b`.`say_time` FROM `user` `a` INNER JOIN `user_say` `b` ON `a`.`user_id`=`b`.`user_id` WHERE  `b`.`show_id` = 1 [ RunTime:0.000424s ]

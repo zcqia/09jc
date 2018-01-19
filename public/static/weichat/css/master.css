@@ -415,6 +415,9 @@
 
 /*手机*/
 @media screen and (max-width : 767px){
+body{
+	background: rgb(243, 243, 244);
+}
 .nav_mob{
 	height:15vw;
 	border:0px solid red;
@@ -507,7 +510,6 @@
 .show_mob2{
 	height:auto;
 	min-height:36vw;
-	background: black;
 	border:0px solid rgb(240,240,240);
 	margin:5vw 2% 0 2%;
 }
@@ -600,7 +602,7 @@
 }
 #more3{
 	color:white;
-position:relative;top:-.3vw;right:-1.75%;}
+position:relative;top:-.3vw;right:-4.95%;}
 .show_content3{
 	position:absolute;top:50%;left:28%;
 	margin-top:-14vw;

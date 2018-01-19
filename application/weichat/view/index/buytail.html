@@ -8,7 +8,7 @@
 	<link href="/public/static/weichat/css/master.css" rel="stylesheet" type="text/css">
 	<link href="/public/static/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 </head>
-<body>
+<body style="background: rgb(243, 243, 244)">
 	<!-- <div class="nav_mob2"><span>水墨中国</span></div> -->
 	<!-- <div class="back"><span class="glyphicon glyphicon-chevron-left"></span></div> -->
 	<div class="main_mob">
@@ -16,9 +16,9 @@
 			<div class="show_img2"><img src="{$data[0]['show_img_path']}"></div>
 			<div class="show_content2">
 				<div><span><b>{$data[0]['show_title']}</b></span></div>
-				<div id="zhuyan"><span id="zhuyan1">主演:<?php if(strlen($shower_name) > 42){
+				<div id="zhuyan"><span id="zhuyan1">主演:<?php if(strlen($shower_name) > 30){
 								  $str=$shower_name;
-								  $str=mb_substr($str,0,13,'utf-8'); 
+								  $str=mb_substr($str,0,12,'utf-8'); 
 								  if(substr($str,strlen($str)-3,strlen($str)) == '。'){
 									 echo substr($str,0,strlen($str)-3).'...';
 								  }else if(substr($str,strlen($str)-1,strlen($str)) == '?'){
