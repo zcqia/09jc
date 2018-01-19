@@ -507,6 +507,7 @@
 .show_mob2{
 	height:auto;
 	min-height:36vw;
+	background: black;
 	border:0px solid rgb(240,240,240);
 	margin:5vw 2% 0 2%;
 }
