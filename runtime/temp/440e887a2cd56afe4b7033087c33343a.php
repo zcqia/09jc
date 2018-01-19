@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:59:"C:\wamp64\www/./application/weichat\view\index\buytail.html";i:1516368455;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:59:"C:\wamp64\www/./application/weichat\view\index\buytail.html";i:1516369714;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,7 @@
 	<link href="/public/static/weichat/css/master.css" rel="stylesheet" type="text/css">
 	<link href="/public/static/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 </head>
-<body style="background: rgb(243, 243, 244)">
+<body>
 	<!-- <div class="nav_mob2"><span>水墨中国</span></div> -->
 	<!-- <div class="back"><span class="glyphicon glyphicon-chevron-left"></span></div> -->
 	<div class="main_mob">
